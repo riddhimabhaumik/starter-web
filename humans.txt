@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   It is a team of ABC user abc@gmail.com
 
 # THANKS
 
