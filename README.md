@@ -9,6 +9,7 @@ This is just a introduction on how merging works
 ## Purpose
 
 To gain knowledge
+Adding a line 
 
 ## Deployment
 
